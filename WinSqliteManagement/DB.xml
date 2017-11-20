@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+  <Db Guid="test1" Name="test" Path="E:\code\WinSqliteManagement\trunk\WinSqliteManagement\bin\Debug\test.db" Pwd="Aa123456" />
+</Root>
